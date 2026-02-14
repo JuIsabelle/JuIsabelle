@@ -1,22 +1,17 @@
 <h2 align="left">Hello World 👋!
 
-💻**Estudante de Engenharia de Software e Cloud/ 
+💻**Engenharia de Software e Cloud/ 
 JavaScript**  
 🇧🇷 Brazil
 ###
 
 Olá, Meu nome e Júlia e sou estudante de Engenharia de Software (1º semestre).
-Sou apaixonada por tecnologia e atualmente estou estudando JavaScript e Cloud(Azure), sempre busco estudar e evoluir meus conhecimentos 
 
+Sou apaixonada por tecnologia e atualmente estou estudando JavaScript e Cloud(Azure), sempre estou buscando estudar e evoluir meus conhecimentos para me profissionalizar nas minhas áreas de interresse.
 
+💬 Sinta-se à vontade para conferir meus repositórios e conectar-se comigo!
 ### 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuIsabelle&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JuIsabelle&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
 ## 🛠️ Tech Stack
 
 <div align="left">
@@ -33,11 +28,6 @@ Sou apaixonada por tecnologia e atualmente estou estudando JavaScript e Cloud(Az
 </p>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuIsabelle/JuIsabelle/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuIsabelle/JuIsabelle/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JuIsabelle/JuIsabelle/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
