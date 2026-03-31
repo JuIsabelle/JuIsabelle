@@ -1,16 +1,17 @@
 <h2 align="left">Hello World 👋!
 
-💻**Engenharia de Software e Cloud/ 
-JavaScript**  
+💻**Desenvolvedora Front-End, Estudante de Engenharia de Software
+& infraestrutura em nuvem.**  
 🇧🇷 Brazil
 ###
 
-Olá, Meu nome e Júlia e sou estudante de Engenharia de Software (1º semestre).
+Olá, Meu nome e Júlia e sou estudante de **Engenharia de Software** na Newton Paiva (1º semestre).
 
-Sou apaixonada por tecnologia e atualmente estou estudando JavaScript e Cloud(Azure), sempre estou buscando estudar e evoluir meus conhecimentos para me profissionalizar nas minhas áreas de interresse.
+Sou apaixonada por tecnologia e atualmente estou estudando JavaScript e **Cloud Computing** (Azure), sempre estou buscando estudar e evoluir meus conhecimentos para me profissionalizar nas minhas áreas de interresse.
 
 💬 Sinta-se à vontade para conferir meus repositórios e conectar-se comigo!
-### 
+
+
 
 ## 🛠️ Tech Stack
 
